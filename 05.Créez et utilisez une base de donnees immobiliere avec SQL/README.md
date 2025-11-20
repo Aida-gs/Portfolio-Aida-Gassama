@@ -6,7 +6,7 @@ L'objectif de ce projet était de concevoir et d’utiliser une base de données
 ## Objectifs  
 - Concevoir une base de données relationnelle adaptée au domaine immobilier.  
 - Créer les tables avec les bonnes relations (clés primaires et étrangères).  
-- Insérer et gérer des données fictives représentant des biens, des clients et des transactions.  
+- Insérer et gérer des données représentant des biens, des clients et des transactions.  
 - Réaliser des requêtes SQL pour répondre à des questions métiers (ventes, locations, clients, zones géographiques).  
 - Extraire des insights exploitables pour la prise de décision.
 
