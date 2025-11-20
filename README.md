@@ -2,7 +2,7 @@
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/aa403a83-7f29-4eef-90c2-a5d29bebc9e2" />
 
-Ce portfolio regroupe les projets que j’ai menés durant ma formation au **parcours Data Analyst** d’**OpenClassrooms**.  
+Ce portfolio regroupe les projets que j’ai menés durant ma formation du **parcours Data Analyst** d’**OpenClassrooms**.  
 Ce parcours m’a permis d’acquérir des compétences techniques solides en **analyse de données, SQL, Python, R, Power BI**, ainsi qu’une compréhension approfondie des **enjeux métiers et du RGPD**.  
 Chaque projet s’appuie sur une **situation professionnelle réelle**, nécessitant l’analyse de données, la création de visualisations pertinentes et la formulation de recommandations adaptées aux besoins des entreprises.
 
