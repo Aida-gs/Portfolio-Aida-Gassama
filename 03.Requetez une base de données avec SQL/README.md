@@ -20,7 +20,7 @@ Dans ce projet, j’ai travaillé sur l’interrogation d’une base de données
 ## Outils utilisés  
 - **Système de gestion de base de données relationnelle (SGBDR)**
 - **SQL** 
-- **Environnement de requêtage (client SQL)** : MySQL
+- **Environnement** : MySQL
 
 ## Résultats  
 - Plusieurs requêtes SQL réalisées pour répondre à des cas d’usage concrets (filtrer des enregistrements, faire des jointures, agréger des données, etc.).  
