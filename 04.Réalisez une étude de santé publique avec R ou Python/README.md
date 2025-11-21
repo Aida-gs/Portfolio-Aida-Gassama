@@ -15,9 +15,9 @@ L’étude a consisté à nettoyer les données, explorer les relations entre le
 
 ## Compétences développées  
 - Préparation et nettoyage des données (pandas, numpy).  
-- Analyse exploratoire des données (EDA).  
+- Analyse exploratoire des données.  
 - Visualisation avec matplotlib et seaborn.  
-- Analyses statistiques (corrélations, tests, régression selon les besoins).  
+- Analyses statistiques.  
 - Interprétation de résultats en contexte santé publique.  
 - Structuration d’un rapport d’analyse clair et cohérent.
 
@@ -26,7 +26,6 @@ L’étude a consisté à nettoyer les données, explorer les relations entre le
 - Pandas : nettoyage et manipulation des données  
 - NumPy : statistiques descriptives  
 - Matplotlib et Seaborn : visualisations  
-- SciPy ou statsmodels (selon usage) : analyses statistiques  
 
 ## Résultats  
 - Mise en évidence des tendances et disparités dans la population étudiée.  
