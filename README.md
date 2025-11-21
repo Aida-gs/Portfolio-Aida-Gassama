@@ -11,6 +11,8 @@ Chaque projet s’appuie sur une **situation professionnelle réelle**, nécessi
 ## Sommaire des projets
 
 ### Projet 1 – Prenez en main votre formation de Data Analyst
+[Lien du projet 1](https://github.com/Aida-gs/Portfolio-Aida-Gassama/tree/main/01.Prenez%20en%20main%20votre%20formation%20de%20Data%20Analyst)
+
 **Objectif :** Définir mon plan d’apprentissage et comprendre le rôle du Data Analyst.  
 **Compétences acquises :**
 - Identifier les soft skills du métier  
