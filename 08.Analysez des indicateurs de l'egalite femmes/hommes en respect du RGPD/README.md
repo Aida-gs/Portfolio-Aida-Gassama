@@ -17,7 +17,6 @@ Ce projet consiste à analyser des indicateurs liés à l’égalité entre les 
 - Calcul du score d'égalité Femmes_homme de l'entreprise
 
 ## Outils utilisés  
-Selon la technologie choisie :  
 
 ### KNIME
   
