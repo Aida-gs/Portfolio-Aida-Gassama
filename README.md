@@ -160,7 +160,7 @@ Chaque projet s’appuie sur une **situation professionnelle réelle**, nécessi
 
 ## Compétences techniques
 
-- **Langages & outils :** Python (pandas, numpy, matplotlib, seaborn, scikit-learn), R, SQL (MySQL), Power BI, Excel  
+- **Langages & outils :** Python (pandas, numpy, matplotlib, seaborn, scikit-learn), R, SQL (MySQL), Power BI, KNIME, Excel, Jupyter Notebook, SQL, Power Architect
 - **Analyse :** Nettoyage et préparation de données, statistiques descriptives et inférentielles, séries temporelles, clustering  
 - **Data Visualisation :** Power BI, Matplotlib, Seaborn, storytelling des données  
 - **Data Management :** Modélisation relationnelle (3NF), respect du RGPD, documentation des bases  
