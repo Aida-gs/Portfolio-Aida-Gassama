@@ -1,4 +1,4 @@
-# Portfolio – Data Analyst (OpenClassrooms)
+# Portfolio – Data Analyst 
 
 **Ce portfolio présente les projets que j'ai réalisés durant ma formation de** **Data Analyst** **chez** **OpenClassrooms**.
 
