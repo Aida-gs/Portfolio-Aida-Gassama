@@ -125,7 +125,7 @@ Chaque projet s’appuie sur une **situation professionnelle réelle**, nécessi
 ---
 
 ### Projet 11 – Étude de marché avec Python
-[Lien du projet 5](https://github.com/Aida-gs/Portfolio-Aida-Gassama/tree/main/05.Cr%C3%A9ez%20et%20utilisez%20une%20base%20de%20donnees%20immobiliere%20avec%20SQL)
+[Lien du projet 11](https://github.com/Aida-gs/Portfolio-Aida-Gassama/tree/main/11.Produisez%20une%20etude%20de%20marche%20avec%20R%20ou%20Python)
 
 **Objectif :** Étudier le marché d’une entreprise à l’aide de clustering et d’analyses en composantes principales.  
 **Outils :** Python (Pandas, Numpy, Mtplotlib)  
