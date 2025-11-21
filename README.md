@@ -1,7 +1,5 @@
 # Portfolio – Data Analyst (OpenClassrooms)
 
-![Portrait](https://github.com/user-attachments/assets/aa403a83-7f29-4eef-90c2-a5d29bebc9e2)
-
 **Ce portfolio présente les projets que j'ai réalisés durant ma formation de** **Data Analyst** **chez** **OpenClassrooms**.
 
 
