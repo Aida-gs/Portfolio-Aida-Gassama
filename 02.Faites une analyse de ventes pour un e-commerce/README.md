@@ -1,5 +1,11 @@
 # Projet 2 – Analyse de ventes pour un e-commerce
 
+<img width="909" height="476" alt="image" src="https://github.com/user-attachments/assets/d9963176-942d-46c2-b0bd-49d724a1ed6c" />
+
+<img width="1596" height="618" alt="image" src="https://github.com/user-attachments/assets/b1f9bfbb-7de3-43d1-803a-42757ad9e13b" />
+
+
+
 ## Description du projet
 Ce projet consistait à analyser les ventes d’un site e-commerce afin de dégager des insights utiles pour la prise de décision commerciale. L’objectif principal était de manipuler, explorer et visualiser des données réelles pour comprendre les tendances, les comportements d’achat et les performances des produits.
 
