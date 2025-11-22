@@ -1,4 +1,8 @@
 # Projet 6 – Optimisez la gestion des données d’une boutique avec R ou Python
+<img width="868" height="486" alt="image" src="https://github.com/user-attachments/assets/40d75d59-e8bf-43cc-9b48-66a85a9e330c" />
+<img width="1001" height="563" alt="image" src="https://github.com/user-attachments/assets/ff8d99b6-6efb-4af6-90f3-f3a6b88b0252" />
+
+
 
 ## Description du projet  
 Dans ce projet, j’ai travaillé sur l’optimisation de la gestion des données d’une boutique. L’objectif était de nettoyer, transformer et analyser un ensemble de données afin d’améliorer la qualité des informations disponibles pour la prise de décision. 
