@@ -1,4 +1,5 @@
 # Projet 3 – Requêtez une base de données avec SQL
+<img width="1171" height="671" alt="image" src="https://github.com/user-attachments/assets/dc2041dd-33d1-4274-add8-d173de22ec00" />
 
 ## Description du projet  
 Dans ce projet, j’ai travaillé sur l’interrogation d’une base de données relationnelle à l’aide du langage SQL, dans le cadre de ma formation Data Analyst chez OpenClassrooms. L’objectif était de construire des requêtes pertinentes (jointures, filtres, agrégations, etc.) pour extraire des insights exploitables pour l’analyse de données.
