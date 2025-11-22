@@ -1,5 +1,5 @@
 # Projet 4 – Réalisez une étude de santé publique  
-<img width="731" height="444" alt="image" src="https://github.com/user-attachments/assets/424c5d5b-816d-4bda-995f-7a521d4b534d" />
+<img width="972" height="466" alt="image" src="https://github.com/user-attachments/assets/424c5d5b-816d-4bda-995f-7a521d4b534d" />
 <img width="972" height="466" alt="image" src="https://github.com/user-attachments/assets/411c3f87-da52-4c9d-9beb-1d3885822109" />
 
 
