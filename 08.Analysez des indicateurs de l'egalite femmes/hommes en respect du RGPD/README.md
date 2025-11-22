@@ -1,7 +1,7 @@
 # Projet 8 – Analysez des indicateurs de l’égalité femmes-hommes
-<img width="926" height="315" alt="image" src="https://github.com/user-attachments/assets/f745e3f8-9c67-4813-a951-679c61aa747d" />
+<img width="1057" height="452" alt="image" src="https://github.com/user-attachments/assets/f745e3f8-9c67-4813-a951-679c61aa747d" />
 
-<img width="1149" height="406" alt="image" src="https://github.com/user-attachments/assets/f275a4d2-3f9d-4781-8a8f-c05f25ddb825" />
+<img width="1057" height="452" alt="image" src="https://github.com/user-attachments/assets/f275a4d2-3f9d-4781-8a8f-c05f25ddb825" />
 <img width="1057" height="452" alt="image" src="https://github.com/user-attachments/assets/856580d8-83f0-45d6-9d55-5ee2bf1cc2c8" />
 
 
