@@ -1,4 +1,7 @@
 # Projet 5 – Créez et utilisez une base de données immobilière avec SQL
+<img width="993" height="584" alt="image" src="https://github.com/user-attachments/assets/7be06d65-00d2-4ddb-ad6a-4d05fcda7561" />
+
+<img width="776" height="383" alt="image" src="https://github.com/user-attachments/assets/e4d3784c-72db-4c6d-b4dc-fa98fb76c7c1" />
 
 ## Description du projet  
 L'objectif de ce projet était de concevoir et d’utiliser une base de données relationnelle dédiée à l’immobilier. J’ai appris à structurer les données, créer les tables, définir les relations, et interroger la base pour obtenir des informations pertinentes pour la gestion et l’analyse d’un parc immobilier.
