@@ -48,6 +48,6 @@ Chaque projet porte sur une **problématique professionnelle réelle**, nécessi
 ---
 # Contact
 
-Si tu vous souhaitez collaborer ou en savoir plus sur mes projets :  
+Si vous souhaitez échanger:  
 📩 **Email** : aida.gassamaa@gmail.com 
 💼 **LinkedIn** : https://www.linkedin.com/in/a%C3%AFda-gassama/
