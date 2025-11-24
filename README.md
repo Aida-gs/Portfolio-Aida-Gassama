@@ -5,7 +5,7 @@
 ## À propos
 
 Je suis **Aïda Gassama**, Data Analyst passionnée par l’analyse, la visualisation et la compréhension des données.  
-Ce portfolio rassemble l’ensemble de mes projets réalisés dans le cadre de ma formation et de mes travaux personnels.
+Ce portfolio rassemble l’ensemble de mes projets réalisés dans le cadre de ma formation chez OpenClassrooms.
 
 🎯 *Objectif : transformer les données en informations claires, utiles et exploitables.
 
