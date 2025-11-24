@@ -48,6 +48,7 @@ Chaque projet porte sur une **problématique professionnelle réelle**, nécessi
   <a><img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" /></a>
   <a><img src="https://img.shields.io/badge/Tableau-005571?logo=tableau&logoColor=white" /></a>
 </p>
+
 - **Techniques :** Python (pandas, numpy, matplotlib, seaborn, scikit-learn), R, SQL (MySQL), Power BI, KNIME, Excel  
 - **Analyse et visualisation :** Data cleaning, statistiques descriptives et inférentielles, clustering, séries temporelles, dashboards interactifs, storytelling  
 - **Data Management :** Modélisation relationnelle (3NF), documentation, conformité RGPD  
