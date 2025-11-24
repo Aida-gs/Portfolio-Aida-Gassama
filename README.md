@@ -11,6 +11,18 @@ Ce portfolio rassemble l’ensemble de mes projets réalisés dans le cadre de m
 
 ![logo OC](https://github.com/user-attachments/assets/7c150fca-c9d1-4364-b011-17044716efb0)
 
+## Compétences acquises grâce aux projets professionnalisants
+<p align="center">
+  <a><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /></a>
+  <a><img src="https://img.shields.io/badge/SQL-003B57?logo=mysql&logoColor=white" /></a>
+  <a><img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" /></a>
+  <a><img src="https://img.shields.io/badge/Tableau-005571?logo=tableau&logoColor=white" /></a>
+</p>
+
+- **Techniques :** Python (pandas, numpy, matplotlib, seaborn, scikit-learn), R, SQL (MySQL), Power BI, KNIME, Excel  
+- **Analyse et visualisation :** Data cleaning, statistiques descriptives et inférentielles, clustering, séries temporelles, dashboards interactifs, storytelling  
+- **Data Management :** Modélisation relationnelle (3NF), documentation, conformité RGPD  
+- **Soft skills :** Autonomie, rigueur, esprit analytique, communication claire
 **Ce que j’ai acquis :**  
 - Compétences solides en **analyse de données, SQL, Python, Power BI, Tableau**  
 - Compréhension approfondie des **enjeux métiers et du RGPD**  
@@ -40,21 +52,6 @@ Chaque projet porte sur une **problématique professionnelle réelle**, nécessi
 | Projet 13 – Mon portfolio professionnel | Créer un portfolio complet | Documentation technique, structuration, présentation | [Voir le projet](https://github.com/Aida-gs/Portfolio-Aida-Gassama/tree/main/13.Creez%20votre%20portfolio%20de%20professionnel%20de%20la%20data) |
 
 ---
-
-## Compétences acquises grâce aux projets professionnalisants
-<p align="center">
-  <a><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /></a>
-  <a><img src="https://img.shields.io/badge/SQL-003B57?logo=mysql&logoColor=white" /></a>
-  <a><img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" /></a>
-  <a><img src="https://img.shields.io/badge/Tableau-005571?logo=tableau&logoColor=white" /></a>
-</p>
-
-- **Techniques :** Python (pandas, numpy, matplotlib, seaborn, scikit-learn), R, SQL (MySQL), Power BI, KNIME, Excel  
-- **Analyse et visualisation :** Data cleaning, statistiques descriptives et inférentielles, clustering, séries temporelles, dashboards interactifs, storytelling  
-- **Data Management :** Modélisation relationnelle (3NF), documentation, conformité RGPD  
-- **Soft skills :** Autonomie, rigueur, esprit analytique, communication claire
-
-
 # Contact
 
 Si tu vous souhaitez collaborer ou en savoir plus sur mes projets :  
