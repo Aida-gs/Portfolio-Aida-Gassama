@@ -1,5 +1,4 @@
-# Portfolio – Data Analyst 
-# 🌟 Portfolio – Aïda Gassama
+# Portfolio – Aïda Gassama Data Analyst 
 
 ## Bienvenu dans mon portfolio
 
