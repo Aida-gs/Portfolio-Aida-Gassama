@@ -1,6 +1,20 @@
 # Portfolio – Data Analyst 
+# 🌟 Portfolio – Aïda Gassama
 
-**Ce portfolio présente les projets que j'ai réalisés durant ma formation de** **Data Analyst** **chez** **OpenClassrooms**.
+## Bienvenu dans mon portfolio
+<p align="center">
+  <a><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /></a>
+  <a><img src="https://img.shields.io/badge/SQL-003B57?logo=mysql&logoColor=white" /></a>
+  <a><img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" /></a>
+  <a><img src="https://img.shields.io/badge/Tableau-005571?logo=tableau&logoColor=white" /></a>
+</p>
+
+## À propos
+
+Je suis **Aïda Gassama**, Data Analyst en formation passionnée par l’analyse, la visualisation et la compréhension des données.  
+Ce portfolio rassemble l’ensemble de mes projets réalisés dans le cadre de ma formation et de mes travaux personnels.
+
+🎯 *Objectif : transformer les données en informations claires, utiles et exploitables.
 
 
 **Ce que j’ai acquis :**  
@@ -40,4 +54,9 @@ Chaque projet porte sur une **problématique professionnelle réelle**, nécessi
 - **Data Management :** Modélisation relationnelle (3NF), documentation, conformité RGPD  
 - **Soft skills :** Autonomie, rigueur, esprit analytique, communication claire  
 
-Chaque projet illustre ma capacité à **résoudre des problématiques métier concrètes**, produire des **insights exploitables** et créer des **visualisations claires pour la prise de décision**.
+
+# Contact
+
+Si tu vous souhaitez collaborer ou en savoir plus sur mes projets :  
+📩 **Email** : aida.gassamaa@gmail.com 
+💼 **LinkedIn** : https://www.linkedin.com/in/a%C3%AFda-gassama/
