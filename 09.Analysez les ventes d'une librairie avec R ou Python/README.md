@@ -1,5 +1,8 @@
 # Projet 9 – Analysez les ventes d'une librairie avec Python
 
+<img width="967" height="496" alt="image" src="https://github.com/user-attachments/assets/6cb3abba-239e-465b-b9e0-ec6878be5032" />
+<img width="967" height="496" alt="image" src="https://github.com/user-attachments/assets/3e515eec-1db3-4c5d-bc31-1a8b61ff4598" />
+
 ## Description du projet  
 L’objectif de ce projet était d’analyser les ventes d’une librairie afin de comprendre les performances commerciales, d’identifier les tendances et de repérer les axes d’amélioration. Le travail a consisté à nettoyer les données, explorer les indicateurs clés et réaliser des visualisations permettant de synthétiser les résultats.
 
