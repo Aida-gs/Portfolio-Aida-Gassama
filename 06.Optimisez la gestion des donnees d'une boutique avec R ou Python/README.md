@@ -1,6 +1,7 @@
 # Projet 6 – Optimisez la gestion des données d’une boutique avec R ou Python
-<img width="1001" height="563" alt="image" src="https://github.com/user-attachments/assets/40d75d59-e8bf-43cc-9b48-66a85a9e330c" />
-<img width="1001" height="563" alt="image" src="https://github.com/user-attachments/assets/ff8d99b6-6efb-4af6-90f3-f3a6b88b0252" />
+
+<img width="800" height="563" alt="image" src="https://github.com/user-attachments/assets/ff8d99b6-6efb-4af6-90f3-f3a6b88b0252" />
+<img width="800" height="563" alt="image" src="https://github.com/user-attachments/assets/70c7ed50-06c0-44bf-9be0-8f89b4d24b50" />
 
 
 

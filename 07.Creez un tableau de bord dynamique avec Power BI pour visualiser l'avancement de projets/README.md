@@ -1,5 +1,7 @@
 # Projet 7 – Créez un tableau de bord dynamique avec Power BI pour visualiser l’avancement de projets
 
+<img width="761" height="428" alt="Capture d&#39;écran 2025-11-23 212308" src="https://github.com/user-attachments/assets/70b949d0-246d-4dfc-9749-c257ebac567f" />
+
 ## Description du projet  
 Ce projet consiste à concevoir un tableau de bord interactif avec Power BI afin de visualiser l’avancement de plusieurs projets. L’objectif était de transformer un ensemble de données brutes en indicateurs clés et visualisations permettant de suivre efficacement la progression, d’identifier les retards et de faciliter la prise de décision.
 

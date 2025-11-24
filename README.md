@@ -16,6 +16,7 @@ Ce portfolio rassemble l’ensemble de mes projets réalisés dans le cadre de m
 
 🎯 *Objectif : transformer les données en informations claires, utiles et exploitables.
 
+![logo OC](https://github.com/user-attachments/assets/7c150fca-c9d1-4364-b011-17044716efb0)
 
 **Ce que j’ai acquis :**  
 - Compétences solides en **analyse de données, SQL, Python, Power BI, Tableau**  
@@ -52,7 +53,7 @@ Chaque projet porte sur une **problématique professionnelle réelle**, nécessi
 - **Techniques :** Python (pandas, numpy, matplotlib, seaborn, scikit-learn), R, SQL (MySQL), Power BI, KNIME, Excel  
 - **Analyse et visualisation :** Data cleaning, statistiques descriptives et inférentielles, clustering, séries temporelles, dashboards interactifs, storytelling  
 - **Data Management :** Modélisation relationnelle (3NF), documentation, conformité RGPD  
-- **Soft skills :** Autonomie, rigueur, esprit analytique, communication claire  
+- **Soft skills :** Autonomie, rigueur, esprit analytique, communication claire
 
 
 # Contact

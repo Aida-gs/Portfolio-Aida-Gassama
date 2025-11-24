@@ -1,5 +1,7 @@
 # Projet 12 – Détection de faux billets  
 ## Machine learning et analyse multivariée avec Python
+<img width="800" height="565" alt="image" src="https://github.com/user-attachments/assets/9b0298d4-197f-404e-ae17-e036a3d54869" />
+<img width="800" height="565" alt="image" src="https://github.com/user-attachments/assets/32820b0f-c9aa-45b7-9d3d-b625a0e5aa98" />
 
 ## Description du projet  
 L’objectif de ce projet était de concevoir un modèle capable de distinguer de vrais billets de faux billets à partir de leurs caractéristiques physiques.  

@@ -1,5 +1,8 @@
 # Projet 10 – Faites une étude sur l’eau potable  
 ## Analyse et visualisation avec Power BI
+<img width="800" height="500" alt="Capture d&#39;écran 2025-10-09 151239" src="https://github.com/user-attachments/assets/0e6a82d5-d23d-4973-a46f-9009c46ff570" />
+
+<img width="800" height="500" alt="Capture d&#39;écran 2025-10-09 151159" src="https://github.com/user-attachments/assets/0b935131-7694-4d8e-87fd-babeb2c2d5ac" />
 
 ## Description du projet  
 L’objectif de ce projet était d’analyser des données liées à l’accès à l’eau potable afin de comprendre les disparités entre régions, d’identifier les zones les plus vulnérables et de mettre en évidence les évolutions dans le temps. L’analyse a été présentée sous la forme d’un tableau de bord interactif réalisé avec Power BI.
