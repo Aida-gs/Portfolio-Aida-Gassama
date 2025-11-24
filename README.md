@@ -1,6 +1,6 @@
 # Portfolio – Aïda Gassama Data Analyst 
 
-## Bienvenu dans mon portfolio
+## Bienvenue dans mon portfolio
 
 ## À propos
 
