@@ -2,6 +2,7 @@
 
 **Ce portfolio présente les projets que j'ai réalisés durant ma formation de** **Data Analyst** **chez** **OpenClassrooms**.
 
+![logo OC](https://github.com/user-attachments/assets/7c150fca-c9d1-4364-b011-17044716efb0)
 
 **Ce que j’ai acquis :**  
 - Compétences solides en **analyse de données, SQL, Python, Power BI, Tableau**  
@@ -38,6 +39,6 @@ Chaque projet porte sur une **problématique professionnelle réelle**, nécessi
 - **Techniques :** Python (pandas, numpy, matplotlib, seaborn, scikit-learn), R, SQL (MySQL), Power BI, KNIME, Excel  
 - **Analyse et visualisation :** Data cleaning, statistiques descriptives et inférentielles, clustering, séries temporelles, dashboards interactifs, storytelling  
 - **Data Management :** Modélisation relationnelle (3NF), documentation, conformité RGPD  
-- **Soft skills :** Autonomie, rigueur, esprit analytique, communication claire  
+- **Soft skills :** Autonomie, rigueur, esprit analytique, communication claire
 
 Chaque projet illustre ma capacité à **résoudre des problématiques métier concrètes**, produire des **insights exploitables** et créer des **visualisations claires pour la prise de décision**.
