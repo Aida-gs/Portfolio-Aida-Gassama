@@ -12,12 +12,6 @@ Ce portfolio rassemble l’ensemble de mes projets réalisés dans le cadre de m
 ![CV](https://github.com/user-attachments/assets/1a7e9a32-3eb3-4bb9-8abd-3eeb9aab0835)
 
 ## Compétences acquises grâce aux projets professionnalisants
-<p align="center">
-  <a><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /></a>
-  <a><img src="https://img.shields.io/badge/SQL-003B57?logo=mysql&logoColor=white" /></a>
-  <a><img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" /></a>
-  <a><img src="https://img.shields.io/badge/Tableau-005571?logo=tableau&logoColor=white" /></a>
-</p>
 
 - **Techniques :** Python (pandas, numpy, matplotlib, seaborn, scikit-learn), R, SQL (MySQL), Power BI, KNIME, Excel  
 - **Analyse et visualisation :** Data cleaning, statistiques descriptives et inférentielles, clustering, séries temporelles, dashboards interactifs, storytelling  
