@@ -1,4 +1,4 @@
-# Projet 9 – Analysez les ventes d'une librairie avec Python
+# Projet 8 – Analyse des ventes d'une librairie
 
 <img width="967" height="496" alt="image" src="https://github.com/user-attachments/assets/6cb3abba-239e-465b-b9e0-ec6878be5032" />
 <img width="967" height="496" alt="image" src="https://github.com/user-attachments/assets/3e515eec-1db3-4c5d-bc31-1a8b61ff4598" />
