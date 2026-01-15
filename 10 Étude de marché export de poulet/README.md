@@ -1,4 +1,4 @@
-# Projet 11 – Étude de marché pour l’exportation de poulet  
+# Projet 10 – Étude de marché pour l’exportation de poulet  
 ## Analyse de groupement de pays avec Python
 <img width="900" height="562" alt="image" src="https://github.com/user-attachments/assets/924239f4-1c6c-4b73-89ed-53278903d2a9" />
 <img width="900" height="562" alt="image" src="https://github.com/user-attachments/assets/787664de-429f-4590-8f1e-8f5412a17fd8" />
