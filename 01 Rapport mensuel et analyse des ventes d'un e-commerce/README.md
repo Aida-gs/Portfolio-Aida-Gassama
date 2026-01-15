@@ -1,4 +1,4 @@
-# Projet 2 – Analyse de ventes pour un e-commerce
+# Projet 1 – Rapport mensuel et analyse des ventes d'un e-commerce
 
 <img width="1596" height="618" alt="image" src="https://github.com/user-attachments/assets/d9963176-942d-46c2-b0bd-49d724a1ed6c" />
 
