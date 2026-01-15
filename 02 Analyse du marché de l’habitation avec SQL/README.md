@@ -1,4 +1,5 @@
-# Projet 3 – Requêtez une base de données avec SQL
+# Projet 2 – Analyse du marché de l’habitation avec SQL
+
 <img width="1171" height="671" alt="image" src="https://github.com/user-attachments/assets/dc2041dd-33d1-4274-add8-d173de22ec00" />
 
 ## Description du projet  
