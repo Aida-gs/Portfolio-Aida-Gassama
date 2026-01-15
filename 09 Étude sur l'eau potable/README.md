@@ -1,4 +1,4 @@
-# Projet 10 – Faites une étude sur l’eau potable  
+# Projet 9 – Étude sur l'eau potable dans le monde
 ## Analyse et visualisation avec Power BI
 <img width="800" height="500" alt="Capture d&#39;écran 2025-10-09 151239" src="https://github.com/user-attachments/assets/0e6a82d5-d23d-4973-a46f-9009c46ff570" />
 
