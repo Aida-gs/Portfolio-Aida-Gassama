@@ -40,7 +40,6 @@ Chaque projet porte sur une **problématique professionnelle réelle**, nécessi
 | Projet 9 – Étude sur l'eau potable | Dashboard Power BI | Visualisation claire et pédagogique, prise de décision | [Voir le projet](https://github.com/Aida-gs/Portfolio-Aida-Gassama/tree/1e3c2baa4d55be4f44206d2fdb3e6baae77a68f0/09%20%C3%89tude%20sur%20l'eau%20potable) |
 | Projet 10 – Étude de marché export de poulet | Analyse de potentiel export | Clustering, ACP, segmentation | [Voir le projet](https://github.com/Aida-gs/Portfolio-Aida-Gassama/tree/1e3c2baa4d55be4f44206d2fdb3e6baae77a68f0/10%20%C3%89tude%20de%20march%C3%A9%20export%20de%20poulet) |
 | Projet 11 – Application de détection des faux billets avec Python| Identifier les faux billets | Machine learning supervisé et non supervisé, Random Forest | [Voir le projet](https://github.com/Aida-gs/Portfolio-Aida-Gassama/tree/1e3c2baa4d55be4f44206d2fdb3e6baae77a68f0/11%20Application%20de%20d%C3%A9tection%20des%20faux%20billets%20avec%20Python) |
-| Projet 12 – Creation d'un portfolio | Création d'un portfolio complet | Documentation technique, structuration, présentation | [Voir le projet](https://github.com/Aida-gs/Portfolio-Aida-Gassama/tree/1e3c2baa4d55be4f44206d2fdb3e6baae77a68f0/12%20Creation%20d'un%20portfolio) |
 
 ---
 # Contact
