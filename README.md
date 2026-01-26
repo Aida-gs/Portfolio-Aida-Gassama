@@ -4,7 +4,7 @@
 
 ## À propos
 
-Bienvenue ! Je suis **Aïda Gassama**. Ma mission ? Faire parler les données pour éclairer la prise de décision. Vous trouverez ici le condensé de mes réalisations chez OpenClassrooms : des analyses rigoureuses et des dashboards intuitifs conçus pour donner du sens à la complexité
+Bienvenue ! Je suis **Aïda Gassama**. Ma mission ? Faire parler les données pour éclairer la prise de décision. Vous trouverez ici le condensé de mes réalisations analyse de données: des analyses rigoureuses et des dashboards intuitifs conçus pour donner du sens à la complexité
 
 ## Objectif : transformer les données en informations claires, utiles et exploitables.
 
