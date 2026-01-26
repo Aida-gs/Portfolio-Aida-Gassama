@@ -9,7 +9,6 @@ Ce portfolio rassemble l’ensemble de mes projets réalisés dans le cadre de m
 
 ## Objectif : transformer les données en informations claires, utiles et exploitables.
 
-![CV](https://github.com/user-attachments/assets/1a7e9a32-3eb3-4bb9-8abd-3eeb9aab0835)
 
 ## Compétences acquises grâce aux projets professionnalisants
 
